@@ -48,3 +48,19 @@ coverage/
 # Database
 *.sqlite
 *.db
+
+# Student Panel Files (Excluded from push)
+client/src/pages/student/
+client/src/services/menu.service.js
+client/src/services/attendance.service.js
+client/src/services/billing.service.js
+client/src/services/complaints.service.js
+client/src/services/feedback.service.js
+client/src/services/notices.service.js
+client/src/services/mealplan.service.js
+client/src/services/payment.service.js
+client/src/services/message.service.js
+client/src/services/users.service.js
+client/src/components/billing/
+client/src/components/forms/ComplaintForm.jsx
+client/src/context/

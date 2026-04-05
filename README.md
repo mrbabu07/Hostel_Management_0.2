@@ -459,3 +459,5 @@ Give a ⭐️ if this project helped you!
 **Built with ❤️ using MERN Stack**
 
 [Documentation](INSTALLATION.md) | [API Docs](http://localhost:5000/api-docs) | [Issues](https://github.com/yourusername/smart-hostel-mess/issues)
+#   H o s t e l _ M a n a g e m e n t _ 0 . 2  
+ 
